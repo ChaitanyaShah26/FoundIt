@@ -322,7 +322,7 @@ export default function ReportItemPage() {
                       <FormControl>
                         <Input 
                           type="tel" 
-                          placeholder="(123) 456-7890" 
+                          placeholder="+91 1234567890" 
                           {...field} 
                         />
                       </FormControl>
