@@ -110,7 +110,7 @@ export default function LostItemsPage() {
           <div className="flex gap-2">
             <Sheet>
               <SheetTrigger asChild>
-                <Button variant="outline" className="flex-shrink-0">
+                {/*<Button variant="outline" className="flex-shrink-0">
                   <SlidersHorizontal className="h-4 w-4 mr-2" />
                   Filters
                   {filtersApplied > 0 && (
@@ -118,7 +118,7 @@ export default function LostItemsPage() {
                       {filtersApplied}
                     </span>
                   )}
-                </Button>
+                </Button>*/}
               </SheetTrigger>
               <SheetContent>
                 <SheetHeader>
